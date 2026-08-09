@@ -3,6 +3,7 @@
 An interactive Streamlit application for exploring, analyzing, visualizing, and querying CSV datasets.
 
 interactive_data_analysis_tool/
+
 ├── app.py
 
 ├── analysis_functions.py
@@ -12,7 +13,7 @@ interactive_data_analysis_tool/
 ├── README.md
 
 └── .streamlit/
-｜
+
     └── config.toml
 
 ## Features
