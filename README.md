@@ -12,6 +12,7 @@ interactive_data_analysis_tool/
 ├── README.md
 
 └── .streamlit/
+｜
     └── config.toml
 
 ## Features
