@@ -4,7 +4,7 @@ An interactive Streamlit application for exploring, analyzing, visualizing, and 
 
 ## Live Application
 
-The live application link will be added after deployment.
+[Fanqi's Interactive Data Analysis Tool.](https://fanqi-fankiki-interactive-data-analysis-tool-a3.streamlit.app/)
 
 ## Application Preview
 
