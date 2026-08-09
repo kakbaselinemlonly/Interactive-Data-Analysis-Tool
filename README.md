@@ -4,10 +4,15 @@ An interactive Streamlit application for exploring, analyzing, visualizing, and 
 
 interactive_data_analysis_tool/
 ├── app.py
+
 ├── analysis_functions.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .streamlit/
+
     └── config.toml
 
 ## Features
