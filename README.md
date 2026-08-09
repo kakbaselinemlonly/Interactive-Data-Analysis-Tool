@@ -60,12 +60,12 @@ SQL queries use SQLite syntax.
 Only SELECT and WITH SQL queries are supported.
 Large datasets may require additional memory and processing time.
 
+## Live Application
+
 ## Run Locally
 
 ```bash
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
-```markdown
 
 
-## Live Application
